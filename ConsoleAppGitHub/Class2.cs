@@ -9,5 +9,10 @@ namespace ConsoleAppGitHub
     internal class Class2
     {
         public string Name { get; set; }
+        public static void test()
+        {
+            Console.WriteLine("Kohli");
+        }
     }
+    
 }
