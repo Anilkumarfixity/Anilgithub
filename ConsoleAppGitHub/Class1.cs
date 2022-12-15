@@ -12,5 +12,10 @@ namespace ConsoleAppGitHub
         {
             Console.WriteLine("Anilkumar");
         }
+         public static void test18()
+        {
+            Console.WriteLine("Anilkumar");
+        }
+        
     }
 }
