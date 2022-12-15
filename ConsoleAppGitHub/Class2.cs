@@ -17,6 +17,10 @@ namespace ConsoleAppGitHub
         {
             Console.WriteLine("CR7");
         }
+        public static void test7()
+        {
+            Console.WriteLine();
+        }
     }
     
 }
