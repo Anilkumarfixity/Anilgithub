@@ -16,5 +16,9 @@ namespace ConsoleAppGitHub.Demo
         {
             Console.WriteLine("Anilkohli");
         }
+        public static void test3()
+        {
+            Console.WriteLine("Anilkohli");
+        }
     }
 }
