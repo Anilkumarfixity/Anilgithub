@@ -21,6 +21,14 @@ namespace ConsoleAppGitHub
         {
             Console.WriteLine();
         }
+        public static void test10()
+        {
+            Console.WriteLine();
+        }
+        public static void test12()
+        {
+            Console.WriteLine();
+        }
     }
     
 }
