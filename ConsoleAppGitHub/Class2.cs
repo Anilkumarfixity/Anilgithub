@@ -13,6 +13,10 @@ namespace ConsoleAppGitHub
         {
             Console.WriteLine("Kohli");
         }
+        public static void test18()
+        {
+            Console.WriteLine("CR7");
+        }
     }
     
 }
